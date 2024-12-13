@@ -1,3 +1,5 @@
+배포 : https://custom-models-with-blender-zeta.vercel.app/
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
